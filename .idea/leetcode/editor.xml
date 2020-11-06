@@ -3,6 +3,14 @@
   <component name="LeetcodeEditor">
     <option name="projectConfig">
       <map>
+        <entry key="$PROJECT_DIR$/leetcode/editor/en/[1382]Balance a Binary Search Tree.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/en/[1382]Balance a Binary Search Tree.java" />
+              <option name="questionId" value="1285" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/en/[560]Subarray Sum Equals K.java">
           <value>
             <LeetcodeEditor>
